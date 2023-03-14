@@ -47,4 +47,4 @@ Good luck!
   - add bin values count above bars
   - add some space between the bars
   - sample:
-    - ![img.png](img.png)
+    - ![https://github.com/svet-tc/sfc_internship_exercises/blob/main/img.png](img.png)
